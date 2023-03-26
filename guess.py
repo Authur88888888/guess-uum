@@ -1,4 +1,3 @@
-
 import random
 start = int(input('請使用者輸入開始值:'))
 end = int(input('請使用者輸入結束值:'))
@@ -16,5 +15,3 @@ while True:
 	elif num < r:
 		print('比答案小')
 	print('這是你猜的第幾次',count,'次')
-
-
